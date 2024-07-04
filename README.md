@@ -1,7 +1,7 @@
 # Welcome to My Hub! 👋🏼
 
 ## Who am I?
-I'm @MohamedAlkindi, a passionate student & developer diving into the realms of Windows console, Web, as well as Android app development. I'm all about creating, learning, and sharing my journey.
+I'm @MohamedAlkindi, a passionate student & developer diving into the realms of Windows Apps, Web, as well as Android app development. I'm all about creating, learning, and sharing my journey.
 
 ## What's Cooking? 🍳
 - Currently mastering the arts of **C#** and **Flutter**.
