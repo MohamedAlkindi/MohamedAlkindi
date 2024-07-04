@@ -4,7 +4,7 @@
 I'm @MohamedAlkindi, a passionate student & developer diving into the realms of Windows console, Web, as well as Android app development. I'm all about creating, learning, and sharing my journey.
 
 ## What's Cooking? 🍳
-- Currently mastering the arts of **C++** and **C#**.
+- Currently mastering the arts of **C#** and **Flutter**.
 - Exploring the intricate dance of algorithms and system design.
 
 ## Let's Collaborate! 💞️
