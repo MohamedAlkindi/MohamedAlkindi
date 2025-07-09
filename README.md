@@ -11,7 +11,7 @@ I'm @MohamedAlkindi, a passionate student & developer diving into the realms of 
 I'm on the lookout for like-minded tech enthusiasts. Whether you're a beginner or a seasoned pro, let's connect and grow together.
 
 ## Find Me 🌐
-- Shoot me an email at msbakng@gmail.com 📧
+- Shoot me an email at bakirmohamedsami@gmail.com 📧
 - Tweet me your thoughts @msbakng 🐦
 
 Let's code, collaborate, and create something extraordinary!
