@@ -35,12 +35,6 @@ _Event discovery. Weather integration. Real-time events. Built to scale._
 
 ---
 
-## 🔍 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlkindi&layout=compact&theme=radical)
-
----
-
 ## 🎯 What I'm Focused On
 
 - ✨ Polishing **EventConnect** with new features  
