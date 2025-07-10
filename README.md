@@ -37,7 +37,6 @@ _Event discovery. Weather integration. Real-time events. Built to scale._
 
 ## 🔍 GitHub Stats
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAlkindi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlkindi&layout=compact&theme=radical)
 
 ---
