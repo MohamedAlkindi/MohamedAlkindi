@@ -44,8 +44,7 @@ _Event discovery. Weather integration. Real-time events. Built to scale._
 ## 🎯 What I'm Focused On
 
 - ✨ Polishing **EventConnect** with new features  
-- 🔍 Exploring **FastAPI**, **Docker**, and backend optimization  
-- 🧱 Building a solo project for independent revenue  
+- 🔍 Exploring **FastAPI**, **Docker**, and backend optimization
 - ⚡ Pushing app performance & battery reliability for Android  
 - 📐 Learning better architectural patterns — because I don't do spaghetti
 
