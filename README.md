@@ -1,17 +1,69 @@
-# Welcome to My Hub! 👋🏼
+# 👋🏼 Hey, I'm Mohamed (@MohamedAlkindi)  
 
-## Who am I?
-I'm @MohamedAlkindi, a passionate student & developer diving into the realms of Windows Apps, Web, as well as Android app development. I'm all about creating, learning, and sharing my journey.
+> 💻 Code craftsman • 🔧 System tweaker • 🚀 Project navigator
 
-## What's Cooking? 🍳
-- Currently mastering the arts of **C#** and **Flutter**.
-- Exploring the intricate dance of algorithms and system design.
+![Terminal Matrix](https://media.tenor.com/lnUj9sLJ6QIAAAAd/matrix-code.gif)
 
-## Let's Collaborate! 💞️
-I'm on the lookout for like-minded tech enthusiasts. Whether you're a beginner or a seasoned pro, let's connect and grow together.
+---
 
-## Find Me 🌐
-- Shoot me an email at bakirmohamedsami@gmail.com 📧
-- Tweet me your thoughts @msbakng 🐦
+## 🧠 What I Build
 
-Let's code, collaborate, and create something extraordinary!
+🚨 From system-level experiments to pixel-perfect Flutter apps — I design things that *perform*.  
+Here’s my creative arsenal:
+
+| 🔧 Tech Stack            | 🚀 Expertise Area                       |
+|--------------------------|----------------------------------------|
+| **Flutter + Firebase**   | 🧼 App architecture & cloud sync       |
+| **Supabase Storage**     | 📦 File hosting & permissions         |
+| **Clean Architecture**   | 🧠 Scalable code & modular layers     |
+| **CI/CD Pipelines**      | 🤖 GitHub Actions for fast shipping   |
+| **Firestore + Security** | 🔐 Real-time data with smart rules    |
+| **Dart / C# / SQL**      | ⚙️ Logic-heavy backends               |
+
+---
+
+## 📦 Featured Project
+
+### [🎉 EventConnect](https://github.com/MohamedAlkindi/EventConnect)  
+_Event discovery. Weather integration. Real-time events. Built to scale._
+
+![Flutter Demo](https://media.tenor.com/CYFZc_E8bwsAAAAd/developer-coding.gif)
+
+🔨 Built with: `Flutter`, `Firestore`, `Supabase`, `WeatherAPI`  
+📲 Supports: attendee view • organizer management • smart UI transitions  
+🧪 Techniques: batch weather sync • Cubit state architecture • file upload flows  
+
+---
+
+## 🔍 GitHub Stats
+
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAlkindi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlkindi&layout=compact&theme=radical)
+
+---
+
+## 🎯 What I'm Focused On
+
+- ✨ Polishing **EventConnect** with new features  
+- 🔍 Exploring **FastAPI**, **Docker**, and backend optimization  
+- 🧱 Building a solo project for independent revenue  
+- ⚡ Pushing app performance & battery reliability for Android  
+- 📐 Learning better architectural patterns — because I don't do spaghetti
+
+---
+
+## 📣 I’m Open To
+
+- 🔎 Collaborations on scalable Flutter apps  
+- 🛠️ Debug missions & performance refactors  
+- 🌍 Multilingual frameworks & internationalization  
+- 🤝 Learning exchanges — especially system-level tricks and app deployment flows
+
+---
+
+## 🚀 Contact
+
+- 📧 Email: `bakirmohamedsami@gmail.com`  
+- 🐦 Twitter: [@msbakng](https://twitter.com/msbakng)
+
+> _“I don't just build apps—I build systems, flows, and vibes.”_
