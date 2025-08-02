@@ -71,13 +71,6 @@
 
 ---
 
-<!-- QUOTE -->
-<h2 align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</h2>
-
----
-
 <!-- WAVY ENDING -->
 
 <h2 align="center"><em>“I don’t just build apps — I design ecosystems, engineer clarity, and vibe through pixels.”</em></h2>
