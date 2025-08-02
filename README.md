@@ -10,20 +10,20 @@
 --- -->
 
 <!-- WHO AM I -->
-<h2 align="center">🚀 About Me</h2>
+<h1 align="center">🚀 About Me</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3EFFDD&center=true&vCenter=true&width=600&lines=I+craft+apps+that+feel+alive.;Pixel-perfect+UI+%2B+clean+architecture.;Project+manager+with+dev+energy.;From+system-level+hacks+to+Flutter+magic." />
 </div>
 
-<p align="center">
+<h2 align="center">
   I'm a <strong>Mobile App Developer</strong> & <strong>Project Manager</strong> passionate about building apps that don't just work — they <em>feel right</em>. I specialize in Flutter + Firebase, blending UI polish with backend logic, and delivering features that users actually love.
-</p>
+</h2>
 
 ---
 
 <!-- STACK -->
-### 🛠️ My Toolbox
+## 🛠️ My Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,linux,windows,sqlite,supabase,postman,vscode,androidstudio,cursorai" />
@@ -32,59 +32,55 @@
 ---
 
 <!-- SHOWCASE PROJECT -->
-### 🌟 Highlight: [🎉 EventConnect](https://github.com/MohamedAlkindi/EventConnect)
+## 🌟 Highlight: [🎉 EventConnect](https://github.com/MohamedAlkindi/EventConnect)
 
-<p align="center">
-  <img src="https://media.tenor.com/CYFZc_E8bwsAAAAd/developer-coding.gif" width="80%" />
-</p>
-
-🎯 Flutter-based event management platform with smart weather integration and organizer tools.  
-✅ Supports: attendee view, file uploads, live weather sync, animated transitions.  
-🔧 Built with: `Flutter`, `Supabase`, `Firestore`, `Cubit`, `WeatherAPI`  
+### 🎯 Flutter-based event management platform with smart weather integration and organizer tools.  
+### ✅ Supports: attendee view, file uploads, live weather sync, animated transitions.  
+### 🔧 Built with: `Flutter`, `Supabase`, `Firestore`, `Cubit`, `WeatherAPI`  
 
 ---
 
 <!-- GITHUB STATS -->
-### 📊 My GitHub Stats
+## 📊 My GitHub Stats
 
-<p align="center">
+<h2 align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedAlkindi&show_icons=true&theme=tokyonight&hide=prs" />
   <img src="https://streak-stats.demolab.com?user=MohamedAlkindi&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlkindi&layout=compact&theme=tokyonight" />
-</p>
+</h2>
 
 ---
 
 <!-- CURRENT FOCUS -->
-### 📌 Currently Building & Exploring
-- ✨ Polish and deploy **EventConnect**
-- 🐳 Learn **Docker** and **FastAPI**
-- 💻 Optimize mobile battery usage + native integrations
-- 📦 DevOps setup with **CI/CD** + performance monitoring
+## 📌 Currently Building & Exploring
+### - ✨ Polish and deploy **EventConnect**
+### - 🐳 Learn **Docker** and **FastAPI**
+### - 💻 Optimize mobile battery usage + native integrations
+### - 📦 DevOps setup with **CI/CD** + performance monitoring
 
 ---
 
 <!-- CONTACT -->
-### 📫 Connect with Me
+## 📫 Connect with Me
 
-<p align="center">
+<h2 align="center">
   <a href="mailto:bakirmohamedsami@gmail.com"><img src="https://img.shields.io/badge/Gmail-bakirmohamedsami@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/mohamed-sami-bokir-182332322"><img src="https://img.shields.io/badge/LinkedIn-@MohamedBokir-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/msbakng"><img src="https://img.shields.io/badge/Twitter-@msbakng-1DA1F2?style=for-the-badge&logo=twitter"></a>
-</p>
+</h2>
 
 ---
 
 <!-- QUOTE -->
-<p align="center">
+<h2 align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+</h2>
 
 ---
 
 <!-- WAVY ENDING -->
 
-<p align="center"><em>“I don’t just build apps — I design ecosystems, engineer clarity, and vibe through pixels.”</em></p>
+<h2 align="center"><em>“I don’t just build apps — I design ecosystems, engineer clarity, and vibe through pixels.”</em></h2>
 
 <!-- Cleaner Version for Calm Me -->
 <!-- HEADER SECTION -->
