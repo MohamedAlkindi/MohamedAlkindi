@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="mailto:bakirmohamedsami@gmail.com"><img src="https://img.shields.io/badge/Gmail-bakirmohamedsami@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/MohamedAlkindi"><img src="https://img.shields.io/badge/LinkedIn-@MohamedAlkindi-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/mohamed-sami-bokir-182332322"><img src="https://img.shields.io/badge/LinkedIn-@MohamedAlkindi-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/msbakng"><img src="https://img.shields.io/badge/Twitter-@msbakng-1DA1F2?style=for-the-badge&logo=twitter"></a>
 </p>
 
