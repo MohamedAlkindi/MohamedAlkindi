@@ -12,10 +12,6 @@
 <!-- WHO AM I -->
 <h1 align="center">🚀 About Me</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3EFFDD&center=true&vCenter=true&width=600&lines=I+craft+apps+that+feel+alive.;Pixel-perfect+UI+%2B+clean+architecture.;Project+manager+with+dev+energy.;From+system-level+hacks+to+Flutter+magic." />
-</div>
-
 <h2 align="center">
   I'm a <strong>Mobile App Developer</strong> & <strong>Project Manager</strong> passionate about building apps that don't just work — they <em>feel right</em>. I specialize in Flutter + Firebase, blending UI polish with backend logic, and delivering features that users actually love.
 </h2>
