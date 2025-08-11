@@ -28,7 +28,7 @@
 ---
 
 <!-- SHOWCASE PROJECT -->
-🌟 Highlight: [✨️ FlowAI](https://github.com/MohamedAlkindi/FlowAI)
+## 🌟 Highlight: [✨️ FlowAI](https://github.com/MohamedAlkindi/FlowAI)
 
 🎯 AI-powered productivity assistant that works inside any app — no switching, no interruptions.
 
