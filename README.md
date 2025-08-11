@@ -28,11 +28,13 @@
 ---
 
 <!-- SHOWCASE PROJECT -->
-## 🌟 Highlight: [🎉 EventConnect](https://github.com/MohamedAlkindi/EventConnect)
+🌟 Highlight: [✨️ FlowAI](https://github.com/MohamedAlkindi/FlowAI)
 
-### 🎯 Flutter-based event management platform with smart weather integration and organizer tools.  
-### ✅ Supports: attendee view, file uploads, live weather sync, animated transitions.  
-### 🔧 Built with: `Flutter`, `Supabase`, `Firestore`, `Cubit`, `WeatherAPI`  
+🎯 AI-powered productivity assistant that works inside any app — no switching, no interruptions.
+
+✅ Supports: instant text generation, smart replies, creative writing, email drafting, and more — right from your current screen.
+
+🔧 Built with: Flutter, Kotlin, Supabase, Gemini API, Accessibility Service
 
 ---
 
