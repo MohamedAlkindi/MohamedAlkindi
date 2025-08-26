@@ -43,7 +43,7 @@
 
 <h2 align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedAlkindi&show_icons=true&theme=tokyonight&hide=prs" />
-  <img src="https://streak-stats.demolab.com?user=MohamedAlkindi&theme=tokyonight" />
+<!--   <img src="https://streak-stats.demolab.com?user=MohamedAlkindi&theme=tokyonight" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlkindi&layout=compact&theme=tokyonight" />
 </h2>
 
