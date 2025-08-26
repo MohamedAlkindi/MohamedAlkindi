@@ -51,8 +51,7 @@
 
 <!-- CURRENT FOCUS -->
 ## 📌 Currently Building & Exploring
-### - ✨ Polish and deploy **EventConnect**
-### - 🐳 Learn **Docker** and **FastAPI**
+### - ✨ Polish and deploy **FlowAI**
 ### - 💻 Optimize mobile battery usage + native integrations
 ### - 📦 DevOps setup with **CI/CD** + performance monitoring
 
