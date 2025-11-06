@@ -22,7 +22,7 @@
 ## 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,linux,windows,sqlite,supabase,postman,vscode,androidstudio,cursorai" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,github,git,linux,windows,postman,vscode,androidstudio" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 ✅ Supports: instant text generation, smart replies, creative writing, email drafting, and more — right from your current screen.
 
-🔧 Built with: Flutter, Kotlin, Supabase, Gemini API, Accessibility Service
+🔧 Built with: Flutter, Kotlin, Supabase, Gemini API and Accessibility Service
 
 ---
 
