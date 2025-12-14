@@ -13,7 +13,7 @@
 <h1 align="center">🚀 About Me</h1>
 
 <h2 align="center">
-  I'm a <strong>Mobile App Developer</strong> & <strong>Project Manager</strong> passionate about building apps that don't just work — they <em>feel right</em>. I specialize in Flutter + Firebase, blending UI polish with backend logic, and delivering features that users actually love.
+  I'm a <strong>Mobile Software Engineer</strong> & <strong>Agile Project Manager</strong> passionate about building apps that don't just work — they <em>feel right</em>. I specialize in Flutter + Firebase, blending UI polish with backend logic, and delivering features that users actually love.
 </h2>
 
 ---
